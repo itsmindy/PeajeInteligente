@@ -1,0 +1,13 @@
+
+# Archivos con claves y secretos
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
